@@ -146,7 +146,7 @@
      font-size: 13px;
  }
 
- @media (min-width: 1440px) {
+ @media (min-width: 2560px) {
      .main_div {
          max-width: 1440px;
          margin: auto;
